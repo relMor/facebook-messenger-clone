@@ -18,3 +18,10 @@
 .message__guestCard{
     background-color: #e9e9eb !important;
 }
+
+.message__label{
+    margin: auto;
+    text-align: left;
+    color: lightgray;
+
+}
